@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">wakeupnow</string>
+    <string name="info">Waiting for GPS...</string>
 </resources>
